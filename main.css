@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    padding: 5rem;
+}
+details {
+    border: 0.0625rem solid #aaaaaa;
+    border-radius: 4px;
+}
