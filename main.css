@@ -7,12 +7,14 @@
 
 body{
     padding: 5rem;
+    background: #aaaaaa;
 }
 details {
     border: 1px solid #aaaaaa;
     border-radius: 4px;
     padding: 1rem;
     cursor: pointer;
+    background: #fff;
 }
 
 details[open] {
