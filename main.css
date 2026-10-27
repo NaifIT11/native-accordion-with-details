@@ -32,7 +32,7 @@ details[open] summary {
 summary::marker {
   content: "↪️";
   color: #333;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 details[open] summary::marker {
